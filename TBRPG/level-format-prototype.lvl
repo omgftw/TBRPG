@@ -1,0 +1,45 @@
+Intro: Welcome to the level prototype!
+
+Option:
+{
+    ID: 5
+    Block-ID: 11,12,13,14
+    Unblock-ID: 15
+    Option-text: This is option 1! Choose me!
+    Result-text: You have chosen option 1!
+	Blocked-Text: This option has been blocked!
+	Give-Items: Axe,Sword of Truth,Skeleton Key
+    
+}
+
+Option:
+{
+    ID: 10
+    Block-ID: 15
+    Option-text: This is option 2! Choose me!
+    Result-text: You have chosen option 1!
+	Blocked-Text: This option has been blocked!
+}
+Option:
+{
+    ID: 15
+    Block-ID: 20
+
+    Option-text: This is option 3! Choose me!
+    Result-text: You have chosen option 1!
+	Blocked-Text: This option has been blocked!
+    
+}
+
+Option:
+{
+    ID: 20
+    Block-ID: 25
+    Unblock-ID: 15
+    Option-text: This is option 4! Choose me!
+    Result-text: You have chosen option 1!
+	Blocked-Text: This option has been blocked!
+	Load: level2.lvl
+    
+}
+

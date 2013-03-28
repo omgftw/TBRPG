@@ -1,0 +1,9 @@
+Intro: This is level 2!
+
+Option:
+{
+    Option-Text: Assassins only!
+    Required-Items: Dagger, Leather Armor
+    result-text: You \nare \ncool!
+    Missing-Required-Items-Text: You must have a %1% and %2%.
+}

@@ -1,0 +1,25 @@
+Intro: Welcome to Asgard.\nChoose your class.
+
+Option:
+{
+ID:1
+    Block-ID: 1,2
+    Blocked-Text: You have already chosen your class!
+    Option-Text: Assassin
+    Result-Text: You are now an assassin!
+    Give-Items: Dagger,Bow,Poison,Stealth Potion,Leather Armor
+}
+Option:
+{
+ID: 2
+    Block-ID: 1,2
+    Blocked-Text: You have already chosen your class!
+    Option-Text: Knight
+    Result-Text: You are now a Knight!
+    Give-Items: Broad Sword, Chainmail Armor, Shield, Health Potion
+}
+Option:
+{
+    Option-Text: Go north.
+    Load: level2.lvl
+}
