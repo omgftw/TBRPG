@@ -156,7 +156,6 @@ namespace TBRPG
                     }
                     else if (input.Equals("help", StringComparison.InvariantCultureIgnoreCase))
                     {
-                        EnableDebugMode();
                         Console.WriteLine("The available commands are:");
 						Console.WriteLine("Save: Saves the game.");
                         Console.WriteLine("Reload: Reloads the current level.");

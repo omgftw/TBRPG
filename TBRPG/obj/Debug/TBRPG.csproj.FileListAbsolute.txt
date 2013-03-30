@@ -4,3 +4,6 @@ c:\users\ftw\documents\visual studio 2012\Projects\TBRPG\TBRPG\bin\Debug\TBRPG.p
 c:\users\ftw\documents\visual studio 2012\Projects\TBRPG\TBRPG\obj\Debug\TBRPG.csprojResolveAssemblyReference.cache
 c:\users\ftw\documents\visual studio 2012\Projects\TBRPG\TBRPG\obj\Debug\TBRPG.exe
 c:\users\ftw\documents\visual studio 2012\Projects\TBRPG\TBRPG\obj\Debug\TBRPG.pdb
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\TBRPG\TBRPG\bin\Debug\TBRPG.exe.config
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\TBRPG\TBRPG\obj\Debug\TBRPG.exe
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\TBRPG\TBRPG\obj\Debug\TBRPG.pdb
